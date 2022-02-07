@@ -10,8 +10,8 @@ The ideia is to make the Netflix starting page with any data to practice fronten
 
 ## Tasks
 <ol>
-<li> ### Netflix Clone: ✔️
-<li> ### Links to the movies: ✔️
-<li> ### Change the home movie and the informations: Next.
-### Create users profile with login: Next.
+<li> Netflix Clone: ✔️
+<li> Links to the movies: ✔️
+<li> Change the home movie and the informations: Next.
+<li> Create users profile with login: Next.
 <ol
