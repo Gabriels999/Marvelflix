@@ -11,5 +11,5 @@ The ideia is to make the Netflix starting page with any data to practice fronten
 ## Tasks
 ### Netflix Clone: Done.
 ### Links to the movies: Done.
-### Change the home movie and the informations: Doing.
-### Create users profile with login: Doing.
+### Change the home movie and the informations: Next.
+### Create users profile with login: Next.
