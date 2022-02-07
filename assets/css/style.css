@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*BASE DO SITE*/
+body {
+  background: rgb(20, 20, 20);
+  font-family: 'Arial', Times, serif;
+  color: white;
+}
+header .container {
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  color: rgb(229, 9, 20);
+  margin-left: 5px;
+  font-family: 'Arial Black', Times;
+  font-size: 40px;
+}
+header nav a {
+  text-decoration: none;
+  color: #aaa;
+  margin-right: 10px;
+}
+header nav a:hover {
+  color: #fff;
+}
+
+/*FILME PRINCIPAL*/
+
+.filme-princ {
+  font-size: 16px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+    url('../img/aranha-volta2.jpg');
+  height: 450px;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.filme-princ .container {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+}
+.sinopse {
+  margin-bottom: 40px;
+}
+.titulo {
+  font-size: 40px;
+  margin-bottom: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  margin-top: 15%;
+}
+.adc-rec {
+  margin-top: 15px;
+  margin-bottom: 6px;
+}
+.botao {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+
+  padding: 15px 40px;
+  margin-right: 15px;
+  font: 12px;
+
+  cursor: pointer;
+  transition: 0.5s ease all;
+}
+.botao i {
+  margin-right: 8px;
+}
+.botao a {
+  text-decoration: none;
+  color: white;
+}
+.botao a:hover {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.botao:hover {
+  background-color: white;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.container {
+  margin-left: 20px;
+}
+
+.carrosel-recentes {
+  margin-top: 5px;
+  margin-left: 50px;
+}
+.box-exib {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
