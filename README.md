@@ -8,6 +8,9 @@ This project was a task from the Inter Frontend Developer bootcamp on the DIO pl
 The Marvelflix is essencialy a clone of Netflix but with the MCU data such as posters, trailers and infos about the movies and series.
 The ideia is to make the Netflix starting page with any data to practice frontend concepts and in the future conect this page with databases and some backend concepts.
 
+## Deploy
+The project was deployed on Vercel on this link: https://marvelflix-tau.vercel.app/
+
 ## Tasks
 <ol>
 <li> Netflix Clone: ✔️
